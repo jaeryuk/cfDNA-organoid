@@ -2,6 +2,4 @@
 
 #### Codes for analyzing fragmentomic features of cfDNA released from patient-derived organoids
 
-
-
-(jaeryuk/cfDNA-organoid/graphical_abstract.tif)
+![graphical_abstract](./graphical_abstract.tif)

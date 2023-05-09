@@ -2,4 +2,5 @@
 
 #### Codes for analyzing fragmentomic features of cfDNA released from patient-derived organoids
 
-![graphical_abstract](./graphical_abstract.tif)
+![graphical abstract](https://user-images.githubusercontent.com/111035975/237038922-426801f2-9fb2-4089-a717-b4343e312415.png)
+

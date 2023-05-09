@@ -4,4 +4,4 @@
 
 
 
-(jaeryuk/cfDNA-organoid/graphical-abstract.tif)
+(jaeryuk/cfDNA-organoid/graphical_abstract.tif)
